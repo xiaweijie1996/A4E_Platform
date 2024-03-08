@@ -1,0 +1,6 @@
+gradio
+matplotlib
+pandas
+openai == 0.28.0
+numpy
+scikit-learn
